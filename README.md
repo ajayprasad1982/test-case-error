@@ -1,6 +1,6 @@
-# Worker-Consumer for Equitas
+# test cases
 
-Worker consumer Queue for Equitas. consumes the message from the rabbitmq queue.
+test cases .
 
 ## Template
 
